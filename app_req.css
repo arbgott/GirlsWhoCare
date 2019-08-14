@@ -2,6 +2,11 @@ body{
     background-color: #dcded5;
 }
 
+.center{
+    position: center;
+    size: 45px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
