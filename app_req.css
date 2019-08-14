@@ -1,0 +1,48 @@
+body{
+    background-color: #dcded5;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#dcded5;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: whitesmoke;
+}
+
+h2{ 
+    font-family: "Playfair Display"; 
+    font-size: 25px;
+    font-style: bold;
+    font-variant: normal;
+    font-weight:550;
+    line-height: 28px;
+} 
+
+h3{
+    font-family: "Playfair Display"; 
+    font-size: 20px;
+    font-style: bold;
+    font-variant: normal;
+    font-weight:530;
+    line-height: 28px;
+}
+.href{
+    position: center;
+}
