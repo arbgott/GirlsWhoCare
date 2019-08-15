@@ -1,10 +1,12 @@
 <<<<<<< HEAD
+
+
 body{
     background-color: #dcded5;
 }
 
 .center{
-    position: center;
+    position: absolute;
     size: 45px;
 }
 
