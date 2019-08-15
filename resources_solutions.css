@@ -28,7 +28,7 @@ h3{
   line-height: 24px;
 }
 
-p{
+.homeo{
   font-family: "Playfair Display";
   font-size: 18px;
 
@@ -36,6 +36,7 @@ p{
   font-weight: 400;
   line-height: 16px;
 }
+<<<<<<< HEAD
 
 
 ul {
@@ -89,3 +90,40 @@ li a:hover {
     background-color: whitesmoke;
 
 } */
+=======
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#7ad9de;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float:left;
+}
+
+li a:hover {
+    background-color: whitesmoke;
+
+
+}
+/* .active {
+    background-color: whitesmoke;
+} */
+.navbar{
+  overflow: hidden;
+  position: fixed;
+  top:0;
+  width:100;
+}
+>>>>>>> 0169544f34c04704a398be70f8a376e4896cffea

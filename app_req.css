@@ -2,9 +2,6 @@ body{
     background-color: #e6ffee;
 }
 
-.banner{
-    overflow: hidden;
-}
 .center{
     position: absolute;
     width: 150px;
@@ -16,7 +13,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:#7ad9de;
+    background-color:#e6ffee;
 }
 .topnav{
   overflow: hidden;
