@@ -14,7 +14,7 @@ ul {
     overflow: hidden;
     background-color:#dcded5;
 }
-.navbar{
+.topnav{
   overflow: hidden;
   position: fixed;
   top:0;
