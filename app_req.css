@@ -2,6 +2,9 @@ body{
     background-color: #e6ffee;
 }
 
+.banner{
+    overflow: hidden;
+}
 .center{
     position: absolute;
     width: 150px;
