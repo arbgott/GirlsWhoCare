@@ -1,4 +1,69 @@
 body{
+    background-color: #e6ffee;
+}
+
+.banner{
+    overflow: hidden;
+}
+.center{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#7ad9de;
+}
+.topnav{
+  overflow: hidden;
+  position: fixed;
+  top:0;
+  width:100;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #7ad9de;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+}
+
+li a:hover {
+    background-color: whitesmoke;
+}
+
+h2{
+    font-family: "Playfair Display";
+    font-size: 25px;
+    font-style: bold;
+    font-variant: normal;
+    font-weight:550;
+    line-height: 28px;
+}
+
+h3{
+    font-family: "Playfair Display";
+    font-size: 20px;
+    font-style: bold;
+    font-variant: normal;
+    font-weight:530;
+    line-height: 28px;
+}
+.href{
+    position: center;
+<<<<<<< HEAD
+}
+/* body{
     background-color: #dcded5;
 }
 
@@ -9,11 +74,11 @@ ul {
     overflow: hidden;
     background-color:#dcded5;
 }
-  
+
 li {
     float: left;
 }
-  
+
 li a {
     display: block;
     color: grey;
@@ -21,22 +86,22 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-  
+
 li a:hover {
     background-color: whitesmoke;
 }
 
-h2{ 
-    font-family: "Playfair Display"; 
+h2{
+    font-family: "Playfair Display";
     font-size: 25px;
     font-style: bold;
     font-variant: normal;
     font-weight:550;
     line-height: 28px;
-} 
+}
 
 h3{
-    font-family: "Playfair Display"; 
+    font-family: "Playfair Display";
     font-size: 20px;
     font-style: bold;
     font-variant: normal;
@@ -45,4 +110,11 @@ h3{
 }
 .href{
     position: center;
+>>>>>>> f84a11fa48375a8e20af29daa1ec0438904db432
+<<<<<<< HEAD
+} */
+=======
 }
+>>>>>>> e8e0788a7b59aa29ddaaefac09256b8d25356647
+=======
+>>>>>>> df8b8c5f304b326e70c5a8292d9b8c04e8bcad29
