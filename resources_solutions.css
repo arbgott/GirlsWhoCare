@@ -5,10 +5,10 @@ body{
 h1{
   font-family: "Playfair Display";
   font-size: 35px;
-  font-style: italic;
   font-variant: normal;
   font-weight: 700;
   line-height: 20px;
+  color: #ffff80;
 }
 
 h2{
