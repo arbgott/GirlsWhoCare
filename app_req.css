@@ -1,13 +1,11 @@
-<<<<<<< HEAD
-
-
 body{
     background-color: #dcded5;
 }
 
 .center{
     position: absolute;
-    size: 45px;
+    width: 150px;
+    height: 150px;
 }
 
 ul {
@@ -53,8 +51,8 @@ h3{
 }
 .href{
     position: center;
-=======
-body{
+}
+/* body{
     background-color: #dcded5;
 }
 
@@ -102,4 +100,4 @@ h3{
 .href{
     position: center;
 >>>>>>> f84a11fa48375a8e20af29daa1ec0438904db432
-}
+} */

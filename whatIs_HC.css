@@ -1,17 +1,17 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
+/* <<<<<<< HEAD
 
 
-=======
+======= */
 body{
    background-color:#dcded5;
 }
 
-/* .center{
+.center{
     position: right;
     display: block;
     size: 200px;
-} */
+}
 
 ul {
     list-style-type: none;
@@ -93,9 +93,9 @@ pre {
     font-weight: 400;
     line-height: 18.5714px;
 }
-=======
+/* =======
 <<<<<<< HEAD
->>>>>>> 45ac33b38a01459c60176832063d4a113d114bd4
+>>>>>>> 45ac33b38a01459c60176832063d4a113d114bd4 */
 body{
    background-color:#dcded5;
 }
@@ -255,6 +255,6 @@ pre {
     font-variant: normal;
     font-weight: 400;
     line-height: 18.5714px;
->>>>>>> f84a11fa48375a8e20af29daa1ec0438904db432
+/* >>>>>>> f84a11fa48375a8e20af29daa1ec0438904db432
 }
->>>>>>> 858c2f1ad9e32c4e1bfa49a43f722ff4368e6124
+>>>>>>> 858c2f1ad9e32c4e1bfa49a43f722ff4368e6124 */
