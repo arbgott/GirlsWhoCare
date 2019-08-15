@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
   background-image: url("https://ak5.picdn.net/shutterstock/videos/12665765/thumb/1.jpg");
   background-size: 100%;
@@ -48,54 +47,3 @@ body{
   width:46%;
   position:fixed;
 }
-=======
-body{
-  background-image: url("https://ak5.picdn.net/shutterstock/videos/12665765/thumb/1.jpg");
-  background-size: 100%;
-}
-
-#logo{
-  font-family: "playfair display";
-  color: #7ad9de;
-  font-size: 80px;
-  position: center, middle
-}
-/* Add a black background color to the top navigation */
-.topnav {
-  overflow: hidden;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 30px;
-  font-family: "playfair display";
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #ddd;
-  color: white;
-}
-
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-#whackshit{
-
-  width:100%;
-}
-#yee{
-  width: 46%;
-}
-#yoosh{
-  width:46%;
-  position:fixed;
-}
->>>>>>> 096e9e3b443a9bbcc12aa5da89783288eef4d63d

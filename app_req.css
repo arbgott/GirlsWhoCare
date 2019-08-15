@@ -15,34 +15,41 @@ ul {
     overflow: hidden;
     background-color:#dcded5;
 }
-  
+.navbar{
+  overflow: hidden;
+  position: fixed;
+  top:0;
+  width:100;
+}
+
 li {
     float: left;
 }
-  
+
 li a {
     display: block;
     color: grey;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    float: left;
 }
-  
+
 li a:hover {
     background-color: whitesmoke;
 }
 
-h2{ 
-    font-family: "Playfair Display"; 
+h2{
+    font-family: "Playfair Display";
     font-size: 25px;
     font-style: bold;
     font-variant: normal;
     font-weight:550;
     line-height: 28px;
-} 
+}
 
 h3{
-    font-family: "Playfair Display"; 
+    font-family: "Playfair Display";
     font-size: 20px;
     font-style: bold;
     font-variant: normal;
@@ -63,11 +70,11 @@ ul {
     overflow: hidden;
     background-color:#dcded5;
 }
-  
+
 li {
     float: left;
 }
-  
+
 li a {
     display: block;
     color: grey;
@@ -75,22 +82,22 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-  
+
 li a:hover {
     background-color: whitesmoke;
 }
 
-h2{ 
-    font-family: "Playfair Display"; 
+h2{
+    font-family: "Playfair Display";
     font-size: 25px;
     font-style: bold;
     font-variant: normal;
     font-weight:550;
     line-height: 28px;
-} 
+}
 
 h3{
-    font-family: "Playfair Display"; 
+    font-family: "Playfair Display";
     font-size: 20px;
     font-style: bold;
     font-variant: normal;
@@ -100,4 +107,8 @@ h3{
 .href{
     position: center;
 >>>>>>> f84a11fa48375a8e20af29daa1ec0438904db432
+<<<<<<< HEAD
 } */
+=======
+}
+>>>>>>> e8e0788a7b59aa29ddaaefac09256b8d25356647
