@@ -30,37 +30,6 @@ li a {
 li a:hover {
   background-color: whitesmoke;
 }
-/* ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:#e6ffee;
-}
-/* .topnav{
-  background-color: #7ad9de;
-  overflow: hidden;
-  position: center;
-  top:0;
-  width:100; */
-}
-
-/* li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: grey;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    float: left;
-}
-
-li a:hover {
-    background-color: whitesmoke;
-}  */
 
 h2{
     font-family: "Playfair Display";
@@ -82,53 +51,3 @@ h3{
 .href{
     position: center;
 }
-/* body{
-    background-color: #dcded5;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:#dcded5;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: grey;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: whitesmoke;
-}
-
-h2{
-    font-family: "Playfair Display";
-    font-size: 25px;
-    font-style: bold;
-    font-variant: normal;
-    font-weight:550;
-    line-height: 28px;
-}
-
-h3{
-    font-family: "Playfair Display";
-    font-size: 20px;
-    font-style: bold;
-    font-variant: normal;
-    font-weight:530;
-    line-height: 28px;
-}
-.href{
-    position: center;
->>>>>>> f84a11fa48375a8e20af29daa1ec0438904db432
-<<<<<<< HEAD
-} */
