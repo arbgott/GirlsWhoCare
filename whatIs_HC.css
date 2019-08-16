@@ -39,10 +39,11 @@ li a:hover {
     background-color: whitesmoke;
 } */
 .navbar{
+  background-color: #7ad9de;
   overflow: hidden;
   position: fixed;
   top:0;
-  width:100;
+  width:99%;
 }
 
 h1 {
