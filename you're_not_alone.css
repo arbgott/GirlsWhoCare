@@ -26,7 +26,7 @@ h3{
   font-style: italic;
   font-variant: normal;
   font-weight: 600;
-  line-height: 26px;
+  line-height: 24px;
 }
 
 p{
@@ -61,4 +61,12 @@ li a {
 
 li a:hover {
   background-color: whitesmoke;
+}
+
+.navbar{
+  background-color:#7ad9de;
+  overflow: block;
+  position: center;
+  top:0;
+  width:350;
 }
