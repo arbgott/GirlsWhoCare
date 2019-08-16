@@ -30,6 +30,14 @@ li a {
 li a:hover {
   background-color: whitesmoke;
 }
+
+.topnav{
+  background-color: #7ad9de;
+  overflow: hidden;
+  position: center;
+  top: 0 ;
+  width: 100;
+}
 /* ul {
     list-style-type: none;
     margin: 0;
