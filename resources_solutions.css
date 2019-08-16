@@ -21,11 +21,11 @@ h2{
 
 h3{
   font-family: "Playfair Display";
-  font-size: 25px;
+  font-size: 20px;
   font-variant: normal;
   font-style: italic;
-  font-weight: 550;
-  line-height: 26px;
+  font-weight: 600;
+  line-height: 28px;
 }
 
 .homeo{
@@ -36,9 +36,9 @@ h3{
   line-height: 16px;
 }
 
-.seek{
+/* .seek{
 
-}
+} */
 ul {
     list-style-type: none;
     margin: 0;
@@ -59,7 +59,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+li a:hover{
     background-color: whitesmoke;
 }
 
@@ -104,4 +104,3 @@ li a:hover {
   top:0;
   width:100;
 }
->>>>>>> 0169544f34c04704a398be70f8a376e4896cffea */
