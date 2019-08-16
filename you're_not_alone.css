@@ -69,10 +69,13 @@ li a:hover {
   background-color: whitesmoke;
 }
 
-.navbar{
+/* .navbar{
   background-color:#7ad9de;
-  overflow: block;
-  position: center;
+  overflow: hidden;
+  /* position: center; */
+  /* position: fixed;
   top:0;
-  width:350;
-}
+  width:99%;
+  float: left;
+  padding: 0; */
+/* } */ 
