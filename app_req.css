@@ -30,6 +30,8 @@ li a {
 li a:hover {
   background-color: whitesmoke;
 }
+<<<<<<< HEAD
+=======
 
 .topnav{
   background-color: #7ad9de;
@@ -134,6 +136,7 @@ li a {
 li a:hover {
     background-color: whitesmoke;
 }
+>>>>>>> 68e178ba8b09dd8025c0c7576893a34d7c47eb6c
 
 h2{
     font-family: "Playfair Display";
@@ -154,6 +157,4 @@ h3{
 }
 .href{
     position: center;
->>>>>>> f84a11fa48375a8e20af29daa1ec0438904db432
-<<<<<<< HEAD
-} */
+}
