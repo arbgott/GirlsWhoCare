@@ -65,5 +65,10 @@ li a:hover{
 }
 
 .topnav{
-    
+  position:fixed;
+  background-color: #7ad9de;
+  overflow: hidden;
+  top: 0 ;
+  width: 400;
+  float:left;
 }
