@@ -38,6 +38,23 @@ li a:hover {
   top: 0 ;
   width: 100;
 }
+
+#fuck {
+  float: left;
+}
+
+#fuck a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  float:left;
+}
+
+#fuck a:hover {
+  background-color: whitesmoke;
+}
 /* ul {
     list-style-type: none;
     margin: 0;
