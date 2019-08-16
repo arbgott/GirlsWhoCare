@@ -45,7 +45,13 @@ ul {
   overflow: hidden;
   background-color:#7ad9de ;
 }
-
+#tags{
+  font-family: "playfair display"
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 24px;
+  font-size: 20px;
+}
 li {
   float: left;
 }
