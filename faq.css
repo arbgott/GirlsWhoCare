@@ -6,26 +6,30 @@ body{
    color: #222;
    text-align:center;
    padding:35px;
- }
+}
 form, p, span {
    margin:0;
-   padding:0; }
+   padding:0;
+}
 input { font:12px arial;
- }
-a {
+}
+a{
    color:#0000FF;
    text-decoration:none;
- }
-   a:hover { text-decoration:underline;}
-#wrapper, #loginform {
+}
+a:hover { text-decoration:underline;
+}
+
+/* #wrapper, #loginform {
    margin:0 auto;
    padding-bottom:25px;
    background:#EBF4FB;
    width:504px;
-   border:1px solid #ACD8F0; }
+   border:1px solid #ACD8F0;
+}
 #loginform { padding-top:18px;
 }
-   #loginform p { margin: 5px;
+#loginform p { margin: 5px;
    }
 #chatbox {
    text-align:left;
@@ -37,8 +41,8 @@ a {
    width:430px;
    border:1px solid #ACD8F0;
    overflow:auto;
- }
-#usermsg {
+} */
+/* #usermsg {
    width:395px;
    border:1px solid #ACD8F0;
  }
@@ -53,4 +57,40 @@ a {
 .logout { float:right;
 }
 .msgln { margin:0 0 2px 0;
+} */
+
+ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color:#7ad9de;
+   position: fixed;
+}
+
+li {
+   float: left;
+}
+
+li a {
+   display: block;
+   color: grey;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+}
+
+li a:hover{
+   background-color: whitesmoke;
+}
+
+.navbar{
+   background-color:#7ad9de;
+  overflow: hidden;
+  position: center;
+  position: fixed;
+  top:0;
+  width:99%;
+  float: left;
+  padding: 0;
 }
