@@ -1,5 +1,44 @@
 body{
-  background-image:url("back.jpg");
+  background-color: #e6ffee;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#7ad9de ;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  float:left;
+}
+
+li a:hover {
+  background-color: whitesmoke;
+}
+
+.topnav{
+  background-color:#7ad9de;
+  overflow: hidden;
+  position: center;
+  position: fixed;
+  top:0;
+  width:99%;
+  float: left;
+  padding: 0;
+}
+
+#allegra{
+  width:20%;
+  height:20%;
 }
 #dabria{
     -webkit-transform: rotate(90deg); /* Safari and Chrome */
@@ -7,6 +46,8 @@ body{
     -ms-transform: rotate(90deg);   /* IE 9 */
     -o-transform: rotate(90deg);   /* Opera */
     transform: rotate(90deg);
+    width:270px;
+    height:270px;
 }
 #kiara{
   -webkit-transform: rotate(90deg); /* Safari and Chrome */
@@ -14,6 +55,8 @@ body{
   -ms-transform: rotate(90deg);   /* IE 9 */
   -o-transform: rotate(90deg);   /* Opera */
   transform: rotate(90deg);
+  width:20%;
+  height: 20%;
 }
 #jah-toya{
   -webkit-transform: rotate(90deg); /* Safari and Chrome */
@@ -21,4 +64,55 @@ body{
 -ms-transform: rotate(90deg);   /* IE 9 */
 -o-transform: rotate(90deg);   /* Opera */
 transform: rotate(90deg);
+}
+h1{
+  font-family: "Playfair Display";
+  font-size: 35px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 20px;
+  color:grey;
+}
+
+h2{
+  font-family: "Playfair Display";
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 24px;
+  color:grey;
+}
+
+h3{
+  font-family: "Playfair Display";
+  font-size: 19px;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 24px;
+  color:grey;
+}
+h4{  font-family: "Playfair Display";
+  font-size: 12px;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 24px;
+  color:grey;
+}
+p{
+  font-family: "Playfair Display";
+  font-size: 18px;
+  font-variant: normal;
+  font-weight: 400;
+  color:grey;
+  line-height: 16px;
+}
+#mission{
+  font-family: "Playfair Display";
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 24px;
+  color:grey;
+.img{
+  width: 20%;
+ height: 20;
 }
