@@ -1,6 +1,14 @@
 body{
   background-color: #e6ffee
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#7ad9de;
+    font-family: "playfair display";
+}
  p{
    font:12px arial;
    color: #222;
@@ -53,4 +61,7 @@ a {
 .logout { float:right;
 }
 .msgln { margin:0 0 2px 0;
+}
+
+
 }
