@@ -1,5 +1,4 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <div class = "navbar">
   <ul>
@@ -10,35 +9,23 @@
     <li><a href="resources_solutions.html">Resources & Solution</a></li>
     <li><a href="aboutus.html">About Us</a></li>
     <li><a href="faq.html">FAQs</a></li>
+  </ul>
 </div class = "navbar">
-</ul>
 <head>
-<title>Health Care FAQ</title>
-<link type="faq.css" rel="stylesheet" href="style.css" />
+  <title>Health Care FAQ</title>
+  <link type="faq.css" rel="stylesheet" href="style.css" />
+<script src="faq.js"></script>
 </head>
 
-<body>
-<div id="wrapper">
-    <div id="menu">
-        <p class="welcome">If you have any more questions please type them below to be sent to us!<b></b></p>
-        <p class="logout"><a id="exit" href="#">Exit Chat</a></p>
-        <div style="clear:both"></div>
-    </div>
+<body onload="chat()">
 
-    <div id="chatbox"></div>
+<div id="username"></div>
+<form>
+  If you have any more questions please send them to us:<br>
+  <input type="text" name="questions"><br>
+  <input type="submit" name="questions"><br>
+</form>
 
-    <form name="message" action="">
-        <input name="usermsg" type="text" id="usermsg" size="63" />
-        <input name="submitmsg" type="submit"  id="submitmsg" value="Send" />
-    </form>
-</div>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
-<script type="text/javascript">
-// jQuery Document
-$(document).ready(function(){
-
-});
-</script>
 </body>
 
 </html>
