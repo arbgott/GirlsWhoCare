@@ -44,7 +44,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    color:#7ad9de;
+    background-color:#7ad9de;
     position: fixed;
 }
 
@@ -62,4 +62,16 @@ li a {
 
 li a:hover{
     background-color: whitesmoke;
+}
+
+.topnav{
+  background-color:#7ad9de;
+  overflow: hidden;
+  position: center;
+  position: fixed;
+  top:0;
+  width:99%;
+  float: left;
+  padding: 0;
+}
 }
