@@ -32,44 +32,33 @@ li a:hover {
 }
 
 .topnav{
-  background-color: #7ad9de;
-  overflow: hidden;
-  position: center;
-  top: 0 ;
-  width: 100;
-}
-
-/* ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+    background-color:#7ad9de;
     overflow: hidden;
-    background-color:#e6ffee;
-}
-/* .topnav{
-  background-color: #7ad9de;
-  overflow: hidden;
-  position: center;
-  top:0;
-  width:100; */
-}
-
-/* li {
+    position: center;
+    position: fixed;
+    top:0;
+    width:99%;
     float: left;
+    padding: 0; 
+    padding: 0;
 }
 
-li a {
-    display: block;
-    color: grey;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    float: left;
+#fuck {
+  float: left;
 }
 
-li a:hover {
-    background-color: whitesmoke;
-}  */
+#fuck a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  float:left;
+}
+
+#fuck a:hover {
+  background-color: whitesmoke;
+}
 
 h2{
     font-family: "Playfair Display";
@@ -90,9 +79,6 @@ h3{
 }
 .href{
     position: center;
-}
-/* body{
-    background-color: #dcded5;
 }
 
 ul {
@@ -118,7 +104,6 @@ li a {
 li a:hover {
     background-color: whitesmoke;
 }
-
 h2{
     font-family: "Playfair Display";
     font-size: 25px;
@@ -138,6 +123,4 @@ h3{
 }
 .href{
     position: center;
->>>>>>> f84a11fa48375a8e20af29daa1ec0438904db432
-<<<<<<< HEAD
-} */
+}
