@@ -12,19 +12,18 @@ ul {
 .topnav{
   background-color: #7ad9de;
   overflow: hidden;
-  position: center;
+  position: fixed;
   top:0;
-  width:100;
+  width:99%;
   font-family: "playfair display";
 }
-.topnav a {
+/* .topnav a {
   float: left;
   color: grey;
   text-align: center;
   padding 0;
   font-family: "playfair display";
-
-}
+} */
 .topnav a.active {
   background-color: #7ad9de;
   color:grey;
@@ -57,6 +56,8 @@ h1{
   font-weight: 700;
   line-height: 20px;
   color:grey;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 h2{
@@ -67,6 +68,8 @@ h2{
   font-weight: 600;
   line-height: 24px;
   color:grey;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 h3{
@@ -76,11 +79,17 @@ h3{
   font-weight: 600;
   line-height: 24px;
   color:grey;
+  margin-left: 50px;
+  margin-right: 50px;
 }
-h4{  font-family: "Playfair Display";
+h4{  
+  font-family: "Playfair Display";
   font-size: 21.5px;
   font-variant: normal;
   font-weight: 600;
   line-height: 24px;
   color:grey;
+  margin-left: 50px;
+  margin-right: 50px;
 }
+
