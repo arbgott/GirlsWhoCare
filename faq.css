@@ -97,6 +97,7 @@ li a:hover{
 
 .center {
    position: fixed;
-   height:50%;
-   width:50%;
+   height:150px;
+   width:150px;
+   size:150px;
 }
