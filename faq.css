@@ -25,11 +25,7 @@ a{
    color:#0000FF;
    text-decoration:none;
 }
-<<<<<<< HEAD
 
-
-}
-=======
 a:hover { text-decoration:underline;
 }
 
@@ -50,7 +46,7 @@ li a:hover{
    background-color: whitesmoke;
 }
 
-.navbar{
+.topnav{
   background-color:#7ad9de;
   overflow: hidden;
   position: center;
@@ -61,9 +57,9 @@ li a:hover{
   padding: 0;
 }
 
-.center {
-   position: fixed;
+/* .center {
+   display: block;
+   position: center;
    height:50%;
    width:50%;
-}
->>>>>>> 4ae06c4b297188c7d9ed443dc3da4f8d78afd880
+} */
