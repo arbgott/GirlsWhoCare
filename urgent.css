@@ -56,6 +56,8 @@ h1{
   font-weight: 700;
   line-height: 20px;
   color:grey;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 h2{
@@ -66,6 +68,8 @@ h2{
   font-weight: 600;
   line-height: 24px;
   color:grey;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 h3{
@@ -75,11 +79,17 @@ h3{
   font-weight: 600;
   line-height: 24px;
   color:grey;
+  margin-left: 50px;
+  margin-right: 50px;
 }
-h4{  font-family: "Playfair Display";
+h4{  
+  font-family: "Playfair Display";
   font-size: 21.5px;
   font-variant: normal;
   font-weight: 600;
   line-height: 24px;
   color:grey;
+  margin-left: 50px;
+  margin-right: 50px;
 }
+
