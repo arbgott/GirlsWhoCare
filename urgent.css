@@ -47,3 +47,40 @@ li a:hover {
     background-color: whitesmoke;
     font-family: "playfair display";
 }
+
+
+h1{
+  font-family: "Playfair Display";
+  font-size: 35px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 20px;
+  color:grey;
+}
+
+h2{
+  font-family: "Playfair Display";
+  font-size: 25px;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 24px;
+  color:grey;
+}
+
+h3{
+  font-family: "Playfair Display";
+  font-size: 25px;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 24px;
+  color:grey;
+}
+h4{  font-family: "Playfair Display";
+  font-size: 21.5px;
+  font-variant: normal;
+  font-weight: 600;
+  line-height: 24px;
+  color:grey;
+}

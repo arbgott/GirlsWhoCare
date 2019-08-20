@@ -1,3 +1,4 @@
+
 var GoHealthUrgentCareApi = require('go_health_urgent_care_api');
 
 var api = new GoHealthUrgentCareApi.CenterInfoApi()
