@@ -13,7 +13,6 @@ h1{
 
 h2{
   font-family: "Playfair Display";
-  font-style: italic;
   font-size: 25px;
   font-variant: normal;
   font-weight: 600;
@@ -24,7 +23,7 @@ h3{
   font-family: "Playfair Display";
   font-size: 20px;
   font-variant: normal;
-  font-style: normal;
+  font-style: italic;
   font-weight: 600;
   line-height: 28px;
 }
@@ -45,7 +44,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    color:#7ad9de;
+    background-color:#7ad9de;
     position: fixed;
 }
 
@@ -66,10 +65,13 @@ li a:hover{
 }
 
 .topnav{
-  position:fixed;
-  background-color: #7ad9de;
+  background-color:#7ad9de;
   overflow: hidden;
-  top: 0 ;
-  width: 99%;
-  float:left;
+  position: center;
+  position: fixed;
+  top:0;
+  width:99%;
+  float: left;
+  padding: 0;
 }
+
