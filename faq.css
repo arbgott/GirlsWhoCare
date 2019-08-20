@@ -94,3 +94,9 @@ li a:hover{
   float: left;
   padding: 0;
 }
+
+.center {
+   position: fixed;
+   height:50%;
+   width:50%;
+}
