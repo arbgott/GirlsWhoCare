@@ -74,7 +74,7 @@ h2{
 
 h3{
   font-family: "Playfair Display";
-  font-size: 25px;
+  font-size: 30px;
   font-variant: normal;
   font-weight: 600;
   line-height: 24px;
@@ -82,7 +82,7 @@ h3{
   margin-left: 50px;
   margin-right: 50px;
 }
-h4{  
+h4{
   font-family: "Playfair Display";
   font-size: 21.5px;
   font-variant: normal;
@@ -92,4 +92,3 @@ h4{
   margin-left: 50px;
   margin-right: 50px;
 }
-
