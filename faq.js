@@ -14,6 +14,7 @@ function chat() {
       document.getElementById("username").innerHTML =
       "Hello " + customerName + "! Please enter any questions you have";
     // }
-    var question =
+  var question = <input type="text" name="questions"><br>
+  
 
 }
