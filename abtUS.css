@@ -41,10 +41,10 @@ li a:hover {
   height:20%;
 }
 #dabria{
-    -webkit-transform: rotate(90deg); /* Safari and Chrome */
-    -moz-transform: rotate(90deg);   /* Firefox */
-    -ms-transform: rotate(90deg);   /* IE 9 */
-    -o-transform: rotate(90deg);   /* Opera */
+    -webkit-transform: rotate(90deg); 
+    -moz-transform: rotate(90deg);   
+    -ms-transform: rotate(90deg);  
+    -o-transform: rotate(90deg);   
     transform: rotate(90deg);
     width:270px;
     height:270px;
@@ -55,14 +55,14 @@ li a:hover {
   color: white;
 }
 #kiara{
-  -webkit-transform: rotate(90deg); /* Safari and Chrome */
-  -moz-transform: rotate(90deg);   /* Firefox */
-  -ms-transform: rotate(90deg);   /* IE 9 */
-  -o-transform: rotate(90deg);   /* Opera */
+  /* -webkit-transform: rotate(90deg); /* Safari and Chrome */
+  /* -moz-transform: rotate(90deg);   /* Firefox */
+  /* -ms-transform: rotate(90deg);   /* IE 9 */
+  /* -o-transform: rotate(90deg);   Opera */
   transform: rotate(90deg);
   width:20%;
   height: 20%;
-position:relative;
+/* position:relative; */
 }
 #jah-toya{
   -webkit-transform: rotate(90deg); /* Safari and Chrome */
