@@ -1,6 +1,14 @@
 body{
   background-color: #e6ffee
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#7ad9de;
+    font-family: "playfair display";
+}
  p{
    font:12px arial;
    color: #222;
@@ -17,6 +25,11 @@ a{
    color:#0000FF;
    text-decoration:none;
 }
+<<<<<<< HEAD
+
+
+}
+=======
 a:hover { text-decoration:underline;
 }
 
@@ -53,3 +66,4 @@ li a:hover{
    height:50%;
    width:50%;
 }
+>>>>>>> 4ae06c4b297188c7d9ed443dc3da4f8d78afd880
